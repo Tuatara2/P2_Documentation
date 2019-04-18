@@ -1,3 +1,4 @@
+//Hi. We were definately on time.
 #include <kipr/botball.h>
 
 int main()
